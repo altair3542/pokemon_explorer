@@ -1,0 +1,40 @@
+# Dependencias
+/node_modules/
+
+# Salida de compilación
+/dist/
+/.build/
+/out/
+
+# Cachés de herramientas
+/.vite/
+/.vscode/
+/.idea/
+/.cache/
+
+# Archivos de entorno
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cobertura de pruebas
+/coverage/
+
+# Archivos generados
+*.local.js
+*.local.css
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Reportes de linter
+.eslintcache
+
+# Archivos temporales de editor
+*~
+*.swp
